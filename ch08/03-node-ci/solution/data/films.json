@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "title": "Iron Man",
+      "director": "Jon Favreau",
+      "release": "2008",
+      "description": "Iron Man",
+      "bgImage": "https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG"
+    },
+    {
+      "title": "The Incredible Hulk",
+      "director": "Louis Letterier",
+      "release": "2008",
+      "description": "The Incredible Hulk",
+      "bgImage": "https://upload.wikimedia.org/wikipedia/en/8/88/The_Incredible_Hulk_poster.jpg"
+    },
+    {
+      "title": "Iron Man 2",
+      "director": "Jon Favreau",
+      "release": "2010",
+      "description": "Iron Man 2",
+      "bgImage": "https://upload.wikimedia.org/wikipedia/en/e/ed/Iron_Man_2_poster.jpg"
+    },
+    {
+      "title": "Thor",
+      "director": "Kenneth Branagh",
+      "release": "2011",
+      "description": "Thor",
+      "bgImage": "https://upload.wikimedia.org/wikipedia/en/f/fc/Thor_poster.jpg"
+    }
+  ]
+}

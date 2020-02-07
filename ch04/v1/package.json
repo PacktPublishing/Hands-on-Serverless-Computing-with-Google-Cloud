@@ -1,0 +1,16 @@
+{
+  "name": "ch04",
+  "version": "1.0.0",
+  "description": "In this repository, there are the assets associated with [Hands On Serverless on Google Cloud Platform (GCP)](TBC).",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=helloWorldLocal",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.4.0"
+  }
+}

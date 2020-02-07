@@ -1,0 +1,10 @@
+steps:
+- name: 'gcr.io/cloud-builders/npm'
+  args: ['install']
+- name: 'gcr.io/cloud-builders/npm'
+  args: ['audit', 'fix']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/$PROJECT_ID/node-ci:0.1', '.']
+images:
+- 'gcr.io/$PROJECT_ID/node-ci:0.1'
+timeout: "600s"

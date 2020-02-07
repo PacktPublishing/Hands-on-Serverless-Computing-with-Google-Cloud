@@ -1,0 +1,38 @@
+#message
+html
+  head
+    style.
+      .header {
+        text-align: center;
+        font-family: roboto;
+      }
+
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+        max-width: 400px;
+        margin: auto;
+        text-align: center;
+        font-family: roboto;
+      }
+      .release {
+        color: grey;
+        font-size: 22px;
+      }
+      .description {
+        color: black;
+        font-size: 18px;
+        padding: 8px;
+      }
+
+    body
+      div.header
+        H1 Functions Framework Example
+        H3 Google Cloud Platform - Cloud Functions
+      div.card
+        img(src=items.bgImage style="width:100%")
+        H1 #{items.title}
+        div.release
+          H3 Released: #{items.release} <br>
+          H3 Director: #{items.director} <br>
+        div.description
+          p #{items.description}

@@ -1,0 +1,9 @@
+html
+  head
+    title Template - This is a Pug generate output
+  body
+    header
+      p RSS Lab
+    section
+    each item in items
+      a(href='' + item.link) #{item.title} <br>
