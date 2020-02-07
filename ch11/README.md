@@ -1,17 +1,17 @@
-# Hands On Serverless Computing with Google Cloud Platform
-Hands-on Serverless Computing with Google Cloud Platform, published by Packt
+# Chapter Eleven: Building a PDF Conversion Service
 
-In this repository, there are the assets associated with [Hands On Serverless on Google Cloud Platform (GCP)](TBC).
+In this repository, there are the assets associated with [Hands On Serverless Computing with Google Cloud Platform (GCP)](TBC).
 
 ## Getting Started
 
-The contents are arranged by chapter and have any associated material linked from within the chapter. Each chapter will have a seperate README.md encompassing the abstract of the content presented.
+Chapter Eleven: Building a PDF Conversion Service
 
 ## Prerequisites
 
 The content covers examples taken from the book [Hands On Serverless Computing with GCP](). It is recommended that to follow the examples you should have:
 
-A [Google Cloud Account](https://cloud.google.com)
+* A [Google Cloud Account](https://cloud.google.com)
+
 
 ## Contributing
 

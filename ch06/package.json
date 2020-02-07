@@ -1,0 +1,17 @@
+{
+  "name": "marvel-website",
+  "version": "1.0.0",
+  "description": "This is an example website build with Cloud Functions",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=filmAPI",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.4.0",
+    "pug": "^2.0.4"
+  }
+}
