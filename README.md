@@ -25,7 +25,7 @@ Rich Rose
 
 ## License
 
-This repository is licensed under the MIT license - see [LICENSE.md](TBC) for further details
+This repository is licensed under the MIT license - see [LICENSE.md](LICENSE) for further details
 
 ## Acknowledgements
 
