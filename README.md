@@ -1,7 +1,7 @@
 # Hands On Serverless Computing with Google Cloud Platform
 Hands-on Serverless Computing with Google Cloud Platform, published by Packt
 
-In this repository, there are the assets associated with [Hands On Serverless on Google Cloud Platform (GCP)](TBC).
+In this repository, there are the assets associated with [Hands On Serverless Computing with Google Cloud Platform (GCP)](TBC).
 
 ## Getting Started
 
@@ -11,11 +11,13 @@ The contents are arranged by chapter and have any associated material linked fro
 
 The content covers examples taken from the book [Hands On Serverless Computing with GCP](). It is recommended that to follow the examples you should have:
 
-A [Google Cloud Account](https://cloud.google.com)
+* [A Google Cloud Account](https://cloud.google.com)
+* [A Qwiklabs Account](https://qwiklabs.com)
+
 
 ## Contributing
 
-Any contributions are welcomed. Please read the [CONTRIBUTING.md](TBC) for details on the process for submitting pull requests.
+Any contributions are welcomed. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on the process for submitting pull requests.
 
 ## Author
 
@@ -23,7 +25,7 @@ Rich Rose
 
 ## License
 
-This repository is licensed under the MIT license - see [LICENSE.md](TBC) for further details
+This repository is licensed under the MIT license - see [LICENSE.md](LICENSE) for further details
 
 ## Acknowledgements
 
