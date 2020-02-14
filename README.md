@@ -1,5 +1,5 @@
-# Hands On Serverless Workloads with Google Cloud Platform
-Hands-on Serverless Workloads with Google Cloud Platform, published by Packt
+# Hands-On Serverless Computing with Google Cloud
+Hands-On Serverless Computing with Google Cloud, published by Packt
 
 In this repository, there are the assets associated with [Hands On Serverless Computing with Google Cloud Platform (GCP)](TBC).
 
