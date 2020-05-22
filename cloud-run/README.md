@@ -1,13 +1,17 @@
-# Hands-On Serverless Computing with Google Cloud
-Hands-On Serverless Computing with Google Cloud, published by Packt
+# Hands On Serverless Computing with Google Cloud Platform
+Hands-on Serverless Computing with Google Cloud Platform, published by Packt
 
 ![Hands-on Serverless Computing with Google Cloud](https://github.com/rosera/Hands-on-Serverless-Computing-with-Google-Cloud-Platform/blob/master/images/hos-google-cloud.png?raw=true)
 
 In this repository, there are the assets associated with [Hands On Serverless Computing with Google Cloud Platform (GCP)](TBC).
 
-## Getting Started
+## Cloud Run
 
-The contents are arranged by chapter and have any associated material linked from within the chapter. Each chapter will have a seperate README.md encompassing the abstract of the content presented.
+* Chapter 7: Introducing Cloud Run
+* Chapter 8: Developing with Cloud Run
+* Chapter 9: Developing with Cloud Run for Anthos
+* Chapter 10: Cloud Run Labs
+ 
 
 ## Prerequisites
 

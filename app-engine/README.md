@@ -1,13 +1,15 @@
-# Hands-On Serverless Computing with Google Cloud
-Hands-On Serverless Computing with Google Cloud, published by Packt
+# Hands On Serverless Computing with Google Cloud Platform
+Hands-on Serverless Computing with Google Cloud Platform, published by Packt
 
 ![Hands-on Serverless Computing with Google Cloud](https://github.com/rosera/Hands-on-Serverless-Computing-with-Google-Cloud-Platform/blob/master/images/hos-google-cloud.png?raw=true)
 
 In this repository, there are the assets associated with [Hands On Serverless Computing with Google Cloud Platform (GCP)](TBC).
 
-## Getting Started
+## App Engine
 
-The contents are arranged by chapter and have any associated material linked from within the chapter. Each chapter will have a seperate README.md encompassing the abstract of the content presented.
+* Chapter 1: Introducing App Engine
+* Chapter 2: Developing with App Engine 
+
 
 ## Prerequisites
 
