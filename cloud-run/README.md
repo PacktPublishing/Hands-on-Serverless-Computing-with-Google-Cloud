@@ -1,7 +1,7 @@
 # Hands On Serverless Computing with Google Cloud Platform
 Hands-on Serverless Computing with Google Cloud Platform, published by Packt
 
-![Hands-on Serverless Computing with Google Cloud](images/hos-google-cloud.png?raw=true)
+![Hands-on Serverless Computing with Google Cloud](https://github.com/rosera/Hands-on-Serverless-Computing-with-Google-Cloud-Platform/blob/master/images/hos-google-cloud.png?raw=true)
 
 In this repository, there are the assets associated with [Hands On Serverless Computing with Google Cloud Platform (GCP)](TBC).
 
