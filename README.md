@@ -1,6 +1,8 @@
 # Hands On Serverless Computing with Google Cloud Platform
 Hands-on Serverless Computing with Google Cloud Platform, published by Packt
 
+![Hands-on Serverless Computing with Google Cloud](images/hos-google-cloud.png?raw=true)
+
 In this repository, there are the assets associated with [Hands On Serverless Computing with Google Cloud Platform (GCP)](TBC).
 
 ## Getting Started
@@ -21,7 +23,10 @@ Any contributions are welcomed. Please read the [CONTRIBUTING.md](CONTRIBUTING.m
 
 ## Author
 
-Rich Rose
+Rich Rose is a Google Cloud Lab Architect. You can contact him via the following social media:
+
+* Twitter [Rich Rose](https://twitter.com/coder_rosey)
+* LinkedIn [Rich Rose](https://www.linkedin.com/in/rosera/)
 
 ## License
 
