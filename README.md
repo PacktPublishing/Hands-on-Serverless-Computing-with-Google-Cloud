@@ -27,6 +27,7 @@ Rich Rose is a Google Cloud Lab Architect. You can contact him via the following
 
 * Twitter [Rich Rose](https://twitter.com/coder_rosey)
 * LinkedIn [Rich Rose](https://www.linkedin.com/in/rosera/)
+* Blog [Rich Rose](https://richrose.dev/tags/serverless/)
 
 ## License
 
