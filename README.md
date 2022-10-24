@@ -40,3 +40,7 @@ This repository is licensed under the MIT license - see [LICENSE.md](LICENSE) fo
 * Google Developer Groups
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838827991">https://packt.link/free-ebook/9781838827991 </a> </p>
